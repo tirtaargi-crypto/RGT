@@ -1,4 +1,4 @@
-name: Build ReyOptimazor from ZIP
+name: Build ReyGameTurbo RGT from ZIP
 
 on:
   workflow_dispatch:
